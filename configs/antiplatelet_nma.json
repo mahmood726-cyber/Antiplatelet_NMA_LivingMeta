@@ -1,0 +1,8 @@
+{
+  "drug": "Antiplatelet NMA",
+  "drug_lower": "antiplatelet nma",
+  "condition": "Adults after PCI for ACS or stable CAD completed",
+  "slug": "antiplatelet_nma",
+  "source_repo": "C:\\Projects\\Antiplatelet_NMA_LivingMeta",
+  "source_html": "ANTIPLATELET_NMA_REVIEW.html"
+}
